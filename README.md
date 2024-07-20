@@ -53,5 +53,3 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <br/><br/>
 
 <hr/>
-
-<br/>
