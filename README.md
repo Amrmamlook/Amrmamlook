@@ -41,8 +41,6 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <br/>
 <hr/>
 
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
