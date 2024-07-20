@@ -44,7 +44,7 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Amrmamlook/Amrmamlook/blob/output/github-contribution-grid-snake.gif" />
+ ![snake gif](https://github.com/Amrmamlook/Amrmamlook/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
