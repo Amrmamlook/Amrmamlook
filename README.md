@@ -34,8 +34,8 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,go,javascript,typescript,mongodb,java,postgresql,redis,mysql,graphql,postman,azure,heroku,rabbitmq" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,rider,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,go,mongodb,java,postgresql,redis,mysql,graphql,postman,azure,heroku,rabbitmq" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,html,css,vscode,rider,github,figma,tailwind,git" />
 </div>
 
 <br/>
