@@ -10,14 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Self Study Project * A Community*
+ 🔭 I’m currently working on Self Study Project * Community*
 
  🌱 I’m currently learning *Docker, AWS*
 
 Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://github.com/issues)*
 
 
-⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
  </div>
  
@@ -45,7 +44,7 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Amrmamlook/Amrmamlook/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Amrmamlook/Amrmamlook/blob/output/github-contribution-grid-snake.gif" />
   
   <br/><br/><br/>
 </div>
