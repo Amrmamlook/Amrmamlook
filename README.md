@@ -36,7 +36,7 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=csharp,java,go,javascript,typescript,mongodb,java,postgresql,mysql,graphql,efcore" /><br>
+    <img src="https://skillicons.dev/icons?i=aspnetcore,csharp,java,go,javascript,typescript,mongodb,java,postgresql,mysql,graphql,efcore" /><br>
 </div>
 
 <br/>
@@ -45,7 +45,7 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amrmamlook/amrmamlook/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Amrmamlook/Amrmamlook/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
