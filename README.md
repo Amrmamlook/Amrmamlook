@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning *Fundamentals of AWS*
  
-🤔 I’m currently open for **a new job opportunity **, this is [MY resume](https://drive.google.com/file/d/1Q8WPY1ou0x-V60IWWMHdY4WuHQpxjtiH/view?usp=drivesdk)
+🤔 I’m currently open for **a new job opportunity**, this is [MY resume](https://drive.google.com/file/d/1Q8WPY1ou0x-V60IWWMHdY4WuHQpxjtiH/view?usp=drivesdk)
 
 
 Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://github.com/issues)*
