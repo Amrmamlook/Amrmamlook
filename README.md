@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on Self Study Project * Community*
 
- 🌱 I’m currently learning *Docker, AWS*
+ 🌱 I’m currently learning *Fundamentals of AWS*
 
 Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://github.com/issues)*
 
@@ -34,7 +34,7 @@ Ask me about *ASP.NET Core, C#, EF Core, GraphQL, and anything [here](https://gi
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,go,mongodb,postgresql,redis,mysql,graphql,postman,azure,heroku,rabbitmq" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,go,mongodb,postgresql,redis,mysql,graphql,postman,docker,azure,heroku,rabbitmq" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,html,css,vscode,rider,github,figma,tailwind,git" />
 </div>
 
